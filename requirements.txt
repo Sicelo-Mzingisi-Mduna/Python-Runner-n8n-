@@ -1,1 +1,2 @@
-git+https://github.com/n8n-io/n8n-task-runner-python.git
+git+https://github.com/n8n-io/n8n-task-runner-python.git@main#egg=n8n-task-runner-python
+
