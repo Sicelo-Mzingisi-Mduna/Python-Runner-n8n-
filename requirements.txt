@@ -1,1 +1,1 @@
-n8n-task-runner-python
+git+https://github.com/n8n-io/n8n-task-runner-python.git
